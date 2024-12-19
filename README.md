@@ -86,8 +86,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 **Contact Information**:
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Email: mironshohmirjonov700.com
+- GitHub: [MironshohM](https://github.com/MironshohM/)
 
 Happy Coding!
 
